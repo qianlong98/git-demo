@@ -1,5 +1,5 @@
-hello myfriend!66666666666666666
-hello git!333333333333333
+hello myfriend!666
+hello git!333
 hello vim!!!
 
 hello vim!!!
